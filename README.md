@@ -4,8 +4,8 @@
   
 
 ### Hi there 👋
-🔭 I’m currently working on Android Application Analysis
-👯 I’m looking to collaborate on Fuzzing, LLVM
+🔭 I’m currently working on Android Application Analysis  
+👯 I’m looking to collaborate on Fuzzing, LLVM  
 
 <!--
 **kordood/kordood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
