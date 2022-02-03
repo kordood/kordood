@@ -8,7 +8,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Android Application Analysis and Software Language Translation  
 👯 I’m looking to collaborate on LLVM, Software Analysis.  
-⚡ Any kinds of idea are welcome it is motivational!  
+⚡ Any kinds of idea are welcome it is motivated!  
 
 <!--
 **kordood/kordood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
